@@ -1,1 +1,1 @@
-# GameOfcLICKS
+# GameOfCLICKS
